@@ -1,11 +1,9 @@
-##################################
-########## PROJECT 4 #############
-### TWITTER SIMULATOR - PART I ###
+####### TWITTER SIMULATOR ########
 ##################################
 
 ########### Team Members ################
-### Raheen Mazgaonkar, UFID: 47144316 ###
-### Varun Mankal, UFID: 04827615 ########
+########### Raheen Mazgaonkar ###########
+############ Varun Mankal ###############
 #########################################
 
 Since client simulator and server engine run on different nodes, the two processes have to be implemented on different terminals by passing appropriate parameters:
