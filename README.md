@@ -1,12 +1,9 @@
-####### TWITTER SIMULATOR ########
-##################################
-
-########### Team Members ################
-
-########### Raheen Mazgaonkar ###########
-
-############ Varun Mankal ###############
-#########################################
+ TWITTER SIMULATOR 
+ =================
+ Team Members
+ =================
+ Raheen Mazgaonkar
+ Varun Mankal
 
 Since client simulator and server engine run on different nodes, the two processes have to be implemented on different terminals by passing appropriate parameters:
 
