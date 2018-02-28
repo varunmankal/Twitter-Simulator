@@ -2,7 +2,7 @@
  =================
  Team Members
  =================
- Raheen Mazgaonkar
+ Raheen Mazgaonkar and 
  Varun Mankal
 
 Since client simulator and server engine run on different nodes, the two processes have to be implemented on different terminals by passing appropriate parameters:
