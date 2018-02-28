@@ -41,4 +41,3 @@ In order to avoid this, start the epmd daemon in ubuntu systems as follows:
 epmd -deamon
 
 
-For implementation details, please refer report.
